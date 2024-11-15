@@ -1,0 +1,24 @@
+{
+  "name": "dscps",
+  "version": "0.0.0",
+  "description": "",
+  "main": "SC.js",
+  "scripts": {
+    "start":"node SC.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "versionInfo": {
+    "updateNotice": "This Update Contains\n-x\n-y",
+    "link": "https://pastebin.com/raw/nSDmRWww"
+  },
+  "resc": {
+    "loadertxt":"DSCPS WATERMARK ADDER IS SUCCESSFULLY VERFIED",
+    "authors" : "https://pastebin/xxx"
+
+
+
+  }
+}
